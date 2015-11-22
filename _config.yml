@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               Di Hei
+tagline:             'Blog'
+description:         'https://github.com/dhei'
+url:                 https://dhei.github.io
+baseurl:             ''
+gems:                [jekyll-paginate]
+paginate:            1
+
+# About/contact
+author:
+  name:              Di Hei
+  url:               https://twitter.com/mdo
+  email:             
+
+# Custom vars
+version:             1.0.0
+
+highlighter:         rouge
