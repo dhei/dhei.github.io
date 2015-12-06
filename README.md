@@ -7,7 +7,7 @@ Powered by [Jekyll](http://jekyllrb.com/) on [GitHub Pages](http://pages.github.
     cd ./dhei.github.io/
 
 	gem install jekyll
-	jekyll server
+	jekyll serve
 	
 	# => Now browse to http://localhost:4000/
 
