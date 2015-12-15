@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 100 things about UX
+title: 100 Things about Design and Psychology
 ---
 
-I came across this super interesting and informative book about UX design: [100 Things Every Designer Needs to Know About People](http://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535) 
+I came across this super interesting book about UX design: [100 Things Every Designer Needs to Know About People](http://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535) 
 
 One of the most interesting part of the book is its structure - one hundred "section" which are often 1 or 2 pages long - straight to the point and informative. So I feel it would be quite useful to write a summary of the book for help me better grasp the essences and future reference as well.
 
@@ -63,12 +63,181 @@ One of the most interesting part of the book is its structure - one hundred "sec
 
 3. people have to use information to make it stick. There are two ways to make working memory (short-term memory) into long-term memory: repeated it or connect to something they already know. 重复和举一反三，能够帮助短期记忆转化成长期记忆。这个道理非常浅显。
 
-4. It's easier to recognize information than recall it. Eliminate memory load whenever possible. 从一堆现成的资料中识别出已知的pattern，比从记忆中搜索回忆起一件事情要容易得多，原因是显而易见的。我忽然想到一个贴切的例子，中学语文考试中，考察古诗词背诵的题型，必须是填空题而不是选择题，就是这个道理。
+4. It's easier to recognize information than recall it. Eliminate memory load whenever possible. 从一堆现成的选项中识别出某项已知的pattern，比从记忆中回忆起一件事情要容易得多，原因是显而易见的。我忽然想到一个贴切的例子，中学语文考试中，考察古诗词背诵的题型，必须是填空题而不是选择题，就是这个道理。
 
-5. Memory takes a lot of mental resources.
+5. Memory takes a lot of mental resources. 一个有趣的现象：如果问一个刚看完presentation的观众presentation讲了些什么，人们往往只清楚的记得presentation的结尾讲了什么；相反，如果presentation观看途中被打断，出来接了一个电话的人，只记得presentation开头讲了什么。
 
-6. People reconstruct memories each time they remember them
+6. People reconstruct memories each time they remember them. 人们以为对过去的事情的记忆是一成不变的，其实记忆会随着时间的流逝而模糊或者丢失。打一个比方，人们提取记忆的方式不是像计算机检索数据一样精确且具有可重复性，而是只记得一部分重点的部分，然后实时重新构建出memory。
 
-7. It's a good thing that people forget
+7. It's a good thing that people forget. 但忘掉什么不忘什么，却不是由主观决定的。
 
-8. The most vivid memories are wrong.
+8. The most vivid memories are wrong. Remember traumatic or dramatic events in great details is called "flashbulb memory", they are vivid but full of errors. 人们总是倾向于认为那些鲜活甚至栩栩如生的“大事件”记忆必然是千真万确，要不然怎么可能记得这么清楚，但事实情况是——这些“大事件”的记忆并不比其他普通事件更清楚更准确，时间长了还是会遗忘或是添油加醋。这真是一个令人沮丧的事实。因此这里有一个很好的建议：If you know someone had a dramatic or traumatic experience, you need to understand two things: first, they'll be convinced that what they remember is accurate; second, it's not exactly true.
+
+
+## How People Think
+
+1. People process information better in bite-size chunks
+
+2. Some types of mental processing are more challenging than others.
+
+3. Minds wander 30 percent of the time.
+
+4. The more uncertain people are, the more they defend their ideas.
+
+5. People create mental models.
+
+6. People interact with conceptual models.
+
+7. People process information best in story form.
+
+8. People learn best from examples.
+
+9. People are driven to create categories.
+
+10. Time is relative.
+
+11. There are four ways to be creative.
+
+12. People can be in a flow state.
+
+13. Culture affects how people think.
+
+
+## How People Focus Their Attention
+
+1. Attention is selective.
+
+2. People filter information.
+
+3. Well-practiced skills don't require conscious attention.
+
+4. Expectation of frequency affect attention.
+
+5. Sustained attention lasts about ten minutes.
+
+6. People pay attention only to salient cues.
+
+7. People can't actually multitask.
+
+8. Danger, food, sex, movement, faces, and stories get the most attention.
+
+9. Loud noises startle and get attention.
+
+10. For people to pay attention to something, they must first perceive it.
+
+
+## What Motivates People
+
+1. People are more motivated as they get closer to a goal.
+
+2. Variable rewards are powerful.
+
+3. Dopamine makes people addicted to seeking information.
+
+4. Unpredictability keeps people searching.
+
+5. People are more motivated by intrinsic rewards than extrinsic rewards.
+
+6. People are motivated by progress, mastery, and control.
+
+7. People's ability to delay gratification (or not) starts young.
+
+8. People are inherently lazy.
+
+9. People will look for shortcuts only if the shortcuts are easy.
+
+10. People assume it's you, not the situation.
+
+11. Forming a habit takes a long time and requires small steps.
+
+12. People are more motivated to compete when there are fewer competitors.
+
+13. People are motivated by autonomy.
+
+
+## People Are Social Animals
+
+1. The "Strong tie" group size limit is 150 people.
+
+2. People are hard-wired for imitation and empathy.
+
+3. Doing things together bonds people together.
+
+4. People expect online interactions to follow social rules.
+
+5. People lie to differing degrees depending on the media.
+
+6. Speakers' brains and listeners' brains sync up during communication.
+
+7. The brain responds uniquely to people you know personally.
+
+8. Laughter bonds people together.
+
+9. People can tell when a smile is real or fake more accurately with video.
+
+
+## How People Feel
+
+1. Seven basic emotions are universal.
+
+2. Emotions are tied to muscle movement and vice versa.
+
+3. Anecdotes persuade more than data.
+
+4. Smells evoke emotions and memories.
+
+5. People are programmed to enjoy surprises.
+
+6. People are happier when they are busy.
+
+7. Pastoral scenes make people happy.
+
+8. People use look and feel as their first indicator of trust.
+
+9. Listening to music releases dopamine in the brain.
+
+10. The more difficult something is to achieve, the more people like it.
+
+11. People overestimating reactions to future events.
+
+12. People feel more positive before and after an event than during it.
+
+13. People want what is familiar when they are sad or scared.
+
+
+## People Make Mistakes
+
+1. People will always make mistakes, there is no fail-safe product.
+
+2. People make errors when they are under stress.
+
+3. Not all mistakes are bad.
+
+4. People make predictable types of errors.
+
+5. People use different error strategies.
+
+
+## How People Decide
+
+1. People make most decisions unconsciously.
+
+2. The unconscious knows first.
+
+3. People want more choices and information than they can process.
+
+4. People think choice equals control.
+
+5. People may care about time more than they care about money.
+
+6. Mood influences the decision-making process.
+
+7. Group decision making can be faulty.
+
+8. People are swayed by a dominant personality.
+
+9. When people are uncertain, they let others decide what to do.
+
+10. People think others are more easily influenced than they are themselves.
+
+11. People value a product more highly when it's physically in front of them.
