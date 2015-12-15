@@ -25,7 +25,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 
 6. People scan screens based on past experience and expectations. 人对于该从哪里开始看和能看到什么有一定的心理预期，比如一般人都是从页面的主要板块的左上角开始阅读。因此UX设计不要把重要content放在不重要的area。
 
-7. People see cues that tell them what to do with an object. UX领域泰斗 [Don Norman](https://en.wikipedia.org/wiki/Don_Norman) 在他的 [The Design of Everyday Things: Revised and Expanded Edition](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654) 书中提到过 **Preceived Affordance** 的经典概念，就是说：生活中可用性设计得好的物件，都是特别容易让人figure out这个东西怎么使用，不用动脑子只需要用直觉。并且这个概念不仅适用于生活中真实的东西，也适用于UX设计。不得不说，苹果在过去20年间引领了这个领域的发展，非常重要的原因就是完美地遵循了Preceived Affordance的原则。
+7. People see cues that tell them what to do with an object. UX领域泰斗 [Don Norman](https://en.wikipedia.org/wiki/Don_Norman) 在他的 [The Design of Everyday Things: Revised and Expanded Edition](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654) 书中提到过 [Preceived Affordance](https://en.wikipedia.org/wiki/Affordance) 的经典概念，就是说：生活中可用性设计得好的物件，都是特别容易让人figure out这个东西怎么使用，不用动脑子只需要用直觉。并且这个概念不仅适用于生活中真实的东西，也适用于UX设计。不得不说，苹果在过去20年间引领了这个领域的发展，非常重要的原因就是完美地遵循了Preceived Affordance的原则。
 
 8. People can miss changes in their visual fields because of inattention blindness & change blindness. 不要assume屏幕上放了这个东西，人们就一定会注意到这个东西。
 
