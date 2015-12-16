@@ -18,7 +18,7 @@ Powered by [Jekyll](http://jekyllrb.com/) on [GitHub Pages](http://pages.github.
 	gem install jekyll
     gem install jekyll-paginate
 
-##### Run Jekyll
+##### Run Jekyll to serve locally
 	jekyll serve
 
 	# => Now browse to http://localhost:4000/
