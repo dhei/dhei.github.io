@@ -1,4 +1,4 @@
-### Welcome to the personal website of Di Hei 
+# Personal website of [Di Hei](https://dhei.github.io) 
 
 Powered by [Jekyll](http://jekyllrb.com/) on [GitHub Pages](http://pages.github.com), color theme inspired by [lanyon](https://github.com/poole/lanyon).
 
