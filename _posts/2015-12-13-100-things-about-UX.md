@@ -178,31 +178,33 @@ One of the most interesting part of the book is its structure - one hundred "sec
 
 ## How People Feel
 
-1. Seven basic emotions are universal.
+1. Seven basic emotions -*Joy, Sadness, Contempt, Fear, Disgust, Surprise & Anger* - are universal. Gestures are NOT. 
 
-2. Emotions are tied to muscle movement and vice versa.
+2. Emotions are tied to muscle movement and vice versa. 一项关于具有消除皱纹功效的肉毒杆菌毒素(Botox)研究表明，注射过肉毒毒素的患者无法通过面部肌肉移动来感受到自身情绪的表达——具体来说，因为(神经性毒素)肉毒杆菌抑制了面部肌肉，导致患者无法控制面部肌肉做出相应的表情，而影响患者自身对于情绪的感知和表达。
 
-3. Anecdotes persuade more than data.
+3. Anecdotes persuade more than data. Information is processed more deeply and remembered longer if it has an emotional hook. 这间接说明了，懂幽默会讲故事对于培养领导者气质的重要性。
 
-4. Smells evoke emotions and memories.
+4. Smells evoke emotions and memories. 嗅觉能唤起人的记忆。
 
-5. People are programmed to enjoy surprises.
+5. People are programmed to enjoy surprises. 喜新厌旧是人之本性。
 
-6. People are happier when they are busy.
+6. People are happier when they are busy. 人们喜欢有事情瞎忙而不喜欢无聊的等待，如果你需要人们等待，最好在他们等待的时候给他们一点儿有意思的东西。我能想到的一个不错的例子是美国这边电影院大厅里随处可见的电子游戏街机。
 
-7. Pastoral scenes make people happy.
+7. Pastoral scenes make people happy. 愉悦的田园风光令人放松，有助于提供一个轻松的环境。
 
-8. People use look and feel as their first indicator of trust.
+8. People use look and feel as their first indicator of trust. 人们喜欢用第一印象来判断对方是否值得信任，这一点同样适用于网站UX设计，如果第一眼看上去网站就很糟糕的基本上没戏。
 
-9. Listening to music releases dopamine in the brain.
+9. Listening to music releases dopamine in the brain. 非常有趣的一个观点：人们对于喜爱的音乐即将到来之前的所产生的“anticipated”的愉悦感，甚至有时候会强于正在聆听时候的愉悦感。
 
-10. The more difficult something is to achieve, the more people like it.
+10. The more difficult something is to achieve, the more people like it. 物以稀为贵，越难做到的事情越难加入的团体越值得珍惜。这可有一个专门的名词叫“认知失调理论”([Cognitive Dissonance Theory](https://en.wikipedia.org/wiki/Cognitive_dissonance)).
 
-11. People overestimating reactions to future events.
+11. People overestimating reactions to future events. 人们往往高估自己对于未来将要发生的事情的情绪反应的激烈程度，也就是说人自身的心理调节能力其实很强，没有那么容易大喜大悲。
 
-12. People feel more positive before and after an event than during it.
+12. People feel more positive before and after an event than during it. 人们在一件事情发生之前和之后，比起正在经历这件事情，往往更容易积极的看待这件事情。这也能解释为什么商家都喜欢给顾客描绘拥有之后未来的美好蓝图，因为“憧憬”往往比真正拥有更加美妙。
 
-13. People want what is familiar when they are sad or scared.
+	这里作者幽默地提出了一个观点：如何度过一个完美的假期？短的假期比长的好。假期尾巴是否开心比假期刚开始是否开心更重要。提前中断的假期会让已度过的假期显得更美好更令人留恋。
+ 
+13. People want what is familiar when they are sad or scared. 人们在悲伤和恐惧的时候，更需要安全感，而熟悉的东西比较有安全感。
 
 
 ## People Make Mistakes
