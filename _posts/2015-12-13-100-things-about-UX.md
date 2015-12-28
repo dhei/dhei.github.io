@@ -128,52 +128,52 @@ One of the most interesting part of the book is its structure - one hundred "sec
 
 ## What Motivates People
 
-1. People are more motivated as they get closer to a goal.
+1. People are more motivated as they get closer to a goal, even with illusion of progress. 商家的积分卡就是这个道理。
 
 2. Variable rewards are powerful.
 
-3. Dopamine makes people addicted to seeking information.
+3. People are motivated to keep seeking information.
 
-4. Unpredictability keeps people searching.
+4. Unpredictability keeps people searching. Giving small bits of information and then providing a way for people to get more information results in more information-seeking behavior. 这也是人们为什么刷新社交媒体停不下来的原因。
 
-5. People are more motivated by intrinsic rewards than extrinsic rewards.
+5. People are more motivated by intrinsic rewards than extrinsic rewards. 神经奖励和物质奖励谁更重要？
 
-6. People are motivated by progress, mastery, and control.
+6. People are motivated by progress, mastery, and control. 激励机制三大法宝：进度条，娴熟程度和控制力。
 
-7. People's ability to delay gratification (or not) starts young.
+7. People's ability to delay gratification (or not) starts young. 经典的认知心理学的[斯坦佛棉花糖实验](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)揭示了人对于delay gratification的控制力其实从儿童时期就逐步形成了。
 
-8. People are inherently lazy.
+8. People are inherently lazy. 人的懒惰总是自有道理的。
 
-9. People will look for shortcuts only if the shortcuts are easy.
+9. People will look for shortcuts only if the shortcuts are easy. 因此提供“默认选项”很重要。
 
-10. People assume it's you, not the situation.
+10. People assume it's you, not the situation. 对事不对人和对人不对事。
 
-11. Forming a habit takes a long time and requires small steps.
+11. Forming a habit takes a long time and requires small steps. 一步一个脚印培养习惯，善于原谅自己。
 
 12. People are more motivated to compete when there are fewer competitors.
 
-13. People are motivated by autonomy.
+13. People are motivated by autonomy because it makes them feel in control.
 
 
 ## People Are Social Animals
 
-1. The "Strong tie" group size limit is 150 people.
+1. The "Strong tie" group size limit is 150 people ([Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)). 邓巴数，是指能与某人维持紧密关系人数的上限是150人。
 
-2. People are hard-wired for imitation and empathy.
+2. People are hard-wired for imitation and empathy. 研究表明，模仿对方身体姿势和手势，更容易让对方产生好感。
 
-3. Doing things together bonds people together.
+3. Doing things together bonds people together. 社交生活中，实时同步的活动往往比异步的活动更容易建立纽带。
 
 4. People expect online interactions to follow social rules.
 
-5. People lie to differing degrees depending on the media.
+5. People lie to differing degrees depending on the media. 人们对于不同媒体调查的诚实度不同，电话调查问卷可信度低于书面问卷，低于面对面反馈。
 
 6. Speakers' brains and listeners' brains sync up during communication.
 
-7. The brain responds uniquely to people you know personally.
+7. The brain responds uniquely to people you know personally, we pay more attention to friends and relatives.
 
 8. Laughter bonds people together.
 
-9. People can tell when a smile is real or fake more accurately with video.
+9. People can tell when a smile is real or fake more accurately with video than static picture.
 
 
 ## How People Feel
@@ -211,35 +211,35 @@ One of the most interesting part of the book is its structure - one hundred "sec
 
 1. People will always make mistakes, there is no fail-safe product.
 
-2. People make errors when they are under stress.
+2. People make errors when they are under stress. When people doing difficult task, lower the level of stress by eliminating any distracting elements such as color, sounds or movements. 
 
-3. Not all mistakes are bad.
+3. Not all mistakes are bad, some consequence is neutral.
 
-4. People make predictable types of errors.
+4. People make predictable types of errors. 根据收集到的用户错误信息来改良产品测试。
 
 5. People use different error strategies.
 
 
 ## How People Decide
 
-1. People make most decisions unconsciously.
+1. People make most decisions unconsciously. 人们的很多决策是受潜意识支配的，但人们往往更愿意相信自己的决策是完全理性和符合逻辑，尽管并不是这样的。
 
-2. The unconscious knows first.
+2. The unconscious knows first, picks the danger first. 人们的潜意识对于危险的事物最为敏感。
 
-3. People want more choices and information than they can process.
+3. People want more choices and information than they can process. 太多的选择反而不知如何选择。作者有一个小建议，如果有非常多的可选对象，最好不要一次性都拿出来而是循序渐进的展示出来。
 
-4. People think choice equals control.
+4. People think choice equals control. 人们喜欢更多的选择其实是潜意识的认为更多的选择意味着更大的控制力，其实商家也在利用这一点来迎合消费者需要更多选择的心理。
 
 5. People may care about time more than they care about money.
 
 6. Mood influences the decision-making process.
 
-7. Group decision making can be faulty.
+7. Group decision making can be faulty. But two people can be better than one.  
 
-8. People are swayed by a dominant personality.
+8. People are swayed by a dominant personality. Leader is leader.
 
 9. When people are uncertain, they let others decide what to do.
 
-10. People think others are more easily influenced than they are themselves.
+10. People think others are more easily influenced than they are themselves. 人们不愿意承认，自己其实比想象中的更容易受他人影响，的确是愚蠢而又自大的人性。
 
 11. People value a product more highly when it's physically in front of them.
