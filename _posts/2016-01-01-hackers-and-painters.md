@@ -3,7 +3,7 @@ layout: post
 title: Hackers & Painters reading notes
 ---
 
-久闻Paul Graham所著的 [Hackers & Painters: Big Ideas from the Computer Age](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/)，2016年新年第一天终于有机会把阮一峰先生翻译的中文版[《黑客与画家》](https://book.douban.com/subject/6021440/)一口气痛快的读完了。值得说明的是，除了原著写得好以外，阮一峰先生翻译的也很用心。读完一遍之后又快速略读了第二遍，整理和摘录出来了一份我认为此书精华部分的读书笔记，分享之。
+久闻硅谷知名投资人 [Paul Graham](http://www.paulgraham.com/) 所著的 [Hackers & Painters: Big Ideas from the Computer Age](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/)，2016年新年第一天终于有机会把阮一峰先生翻译的中文版[《黑客与画家》](https://book.douban.com/subject/6021440/)一口气痛快的读完了。值得说明的是，除了原著写得好以外，阮一峰先生翻译的也很用心。读完一遍之后又快速略读了第二遍，整理和摘录出来了一份我认为此书精华部分的读书笔记，分享之。
 
 ![alt text](/assets/hackers-and-painters.jpg)
 
