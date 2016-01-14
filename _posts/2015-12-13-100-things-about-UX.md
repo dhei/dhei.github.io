@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 100 Things about Design and Psychology
+comments: true
 ---
 
 I came across this super interesting book about UX design: [100 Things Every Designer Needs to Know About People](http://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535) 
