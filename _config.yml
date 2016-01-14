@@ -7,11 +7,11 @@ permalink:           pretty
 # Setup
 title:               Di Hei
 tagline:             'Thoughts on Technology and Everything Else'
-description:         'https://github.com/dhei'
-url:                 https://dhei.github.io
+description:         'Blog of Di Hei'
+url:                 'http:diheiblog.com'
 baseurl:             ''
 gems:                [jekyll-paginate]
-paginate:            1
+paginate:            2
 
 # About/contact
 author:
