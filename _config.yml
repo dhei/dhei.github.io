@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Di Hei
 tagline:             'Thoughts on Technology and Everything Else'
 description:         'Blog of Di Hei'
-url:                 'http:diheiblog.com'
+url:                 'http://diheiblog.com'
 baseurl:             ''
 gems:                [jekyll-paginate]
 paginate:            2
@@ -17,7 +17,7 @@ paginate:            2
 author:
   name:              Di Hei
   url:               'https://github.com/dhei'
-  email:             
+  email:             ''
 
 # Custom vars
 version:             1.0.0
