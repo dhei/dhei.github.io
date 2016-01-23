@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Practice Makes Genius
+title: What Makes Genius?
 comments: true
 ---
 
-[2015豆瓣年度书单](https://book.douban.com/annual2015/)榜上有名的[《万万没想到--用理工科思维理解世界》](https://book.douban.com/subject/25986341/)是知名科普博主万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)的[博客](http://www.geekonomics10000.com/)集结成册而成的科普书籍，介绍怎样用理工科的逻辑和理性思维来理解世界。读罢此书，对于其中一篇探讨[《如何通过练习一万小时成为天才》](http://www.geekonomics10000.com/519/)的文章深感赞同，觉得有必要写篇读后感。
+[《万万没想到--用理工科思维理解世界》](https://book.douban.com/subject/25986341/)是知名科普博主万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)的[博客](http://www.geekonomics10000.com/)集结成册而成的科普书籍，介绍怎样用理工科的逻辑和理性思维来理解世界。读罢此书，对于其中一篇探讨[《如何通过练习一万小时成为天才》](http://www.geekonomics10000.com/519/)的文章深感赞同，觉得有必要写篇读后感。
 
 ![alt text](/assets/wan-wan-mei-xiang-dao.jpg)
 [万万没想到——用理工科思维理解世界](https://book.douban.com/subject/25986341/)
