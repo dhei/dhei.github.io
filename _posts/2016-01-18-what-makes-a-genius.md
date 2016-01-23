@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Makes Genius?
+title: What Makes a Genius?
 comments: true
 ---
 
