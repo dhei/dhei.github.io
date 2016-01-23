@@ -39,8 +39,6 @@ comments: true
 
 >Battle Hymn of the Tiger Mother author Amy Chua's proudly politically incorrect account of raising her children "the Chinese way" has revealed **American fears about losing ground to China and preparing our kids to survive in the global economy**
 
-![alt text](/assets/time-tiger-mon-cover-story.jpg)
-
 原来是美国人担心在新兴的全球化经济竞争中，“美式教育”会败给“中式教育”。
 
 美国人怕了，正是因为“中式教育”强调的吃苦——是多数人心知肚明却只有极少数人做得到的事情。话说回来了，虽然很多人不赞同 Amy Chua 过于功利化的教育方法，但却很难否认一个观点：**对于那些一心想出人头地的人来说，一直玩命得练下去，是唯一的出路。**至于你想不想出人头地，登上金字塔塔尖，则是你自己的选择。
