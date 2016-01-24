@@ -17,7 +17,7 @@ comments: true
 7. [Popular Science](#popular-science)
 
 
-## Software Engineering
+### Software Engineering
 
 1. [Code Complete (2nd Edition)](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 [(中文版：代码大全)](http://book.douban.com/subject/1477390/)
@@ -38,7 +38,7 @@ comments: true
 
 	软件工程Software Engineering领域内的另一本经典的实用主义指南
 
-## Product Design and User Experience Design
+### Product Design and User Experience Design
 
 1. [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/)
 
@@ -70,7 +70,7 @@ comments: true
 
 	互联网时代的产品往往利用了人性的弱点来钩住用户，而这本书的借用宗教当中的七宗罪（Pride, Sloth, Gluttony, Anger, Envy, Lust & Greed）来描述人性中与生俱来的弱点。这本书可读性很强，阅读体验不错。
 
-## Entrepreneurship and Business Management
+### Entrepreneurship and Business Management
 
 1. [Zero to One: Notes on Startups, or How to Build the Future](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 [(中文版：从0到1)](http://book.douban.com/subject/24753651/)
@@ -99,7 +99,7 @@ comments: true
 
     Google执行主席施密特[Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)给自家公司撰写的的比较有诚意的软文合集，重点介绍Google早年发展过程中（2000年那个时代）独具一格的公司文化，很有信息量，推荐任何想了解Google早年发家史的人去读。当然，今日的巨头Google据说早已不是这样子的了。
 
-## Psychology and Sociology
+### Psychology and Sociology
 
 1. [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248/) [(中文版：怪诞行为学)](http://book.douban.com/subject/3223711/)
 
@@ -138,7 +138,7 @@ comments: true
 	
     Americans are taught to believe that upward mobility is possible for anyone who is willing to work hard, regardless of their social status, yet it is often those from affluent backgrounds who land the best jobs. Pedigree takes readers behind the closed doors of top-tier investment banks, consulting firms, and law firms to reveal the truth about who really gets hired for the nation's highest-paying entry-level jobs, who doesn't, and why.
 
-## Politics and Economics
+### Politics and Economics
 
 1. [America Alone: The End of the World As We Know It](http://www.amazon.com/America-Alone-End-World-Know/dp/1596985275/)
 
@@ -146,7 +146,7 @@ comments: true
 
     知名的美国保守派学者Mark Steyn关于欧洲穆斯林化与西方的衰落的经典论述，美国科罗拉多大学物理学家万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)在微博上有一篇对于此书精彩的[读书笔记](http://weibo.com/p/1001603796644201140832)值得推荐
 
-## History and Autobiography
+### History and Autobiography
 
 1. [An American Life](http://www.amazon.com/American-Life-Ronald-Reagan/dp/1451628390/)
 
@@ -190,7 +190,7 @@ comments: true
 
     《浪潮之巅》的作者吴军的写的世界科技史通俗读物第二册，可读性强，非常有信息量
 
-## Popular Science
+### Popular Science
 	
 1. [Sapiens: A Brief History of Humankind](http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/)
 [(中文版：人类简史)](https://book.douban.com/subject/25985021/)
@@ -209,6 +209,6 @@ comments: true
 
     ![alt text](/assets/wan-wan-mei-xiang-dao.jpg)
 
-    美国科罗拉多大学物理学家万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)的撰写的关于“怎么样用理工科思维理解世界”的书，通俗易懂。我的理解是，这本书谈的都是那些对于接受过严格的理工科科研训练的人来说都是常识性的东西，但对于大部分不具有**批判性思维**能力且**非理工科背景**的人来说是非常不错的“思想启蒙”性质的读物。如果感兴趣请详见本站文章[What Makes Genius](http://diheiblog.com//2016/01/18/what-makes-genius/).
+    美国科罗拉多大学物理学家万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)的撰写的关于“怎么样用理工科思维理解世界”的书，通俗易懂。我的理解是，这本书谈的都是那些对于接受过严格的理工科科研训练的人来说都是常识性的东西，但对于大部分不具有**批判性思维**能力且**非理工科背景**的人来说是非常不错的“思想启蒙”性质的读物。如果感兴趣请详见本站文章[What Makes a Genius](http://diheiblog.com//2016/01/18/what-makes-a-genius/).
 
 

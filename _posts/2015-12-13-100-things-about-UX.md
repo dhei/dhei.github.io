@@ -10,7 +10,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 
 ![alt text](/assets/100-things-every-design-needs-to-know-about-people.jpg)
 
-## How People See
+### How People See
 
 1. What you see isn't what you brain gets - our brain creates shortcuts for us. Colors and shapes can influence what we see. 亲眼所见也未必是真的，因为大脑会欺骗我们。
 
@@ -39,7 +39,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 12. The meaning of colors vary by culture. 不同文化中颜色的隐含意义可能不同甚至相反，我立即能想到的一个例子就是——红绿两色在中美的股市中所代表的涨和跌的意思正好相反。
 
 
-## How People Read
+### How People Read
 
 1. It's a myth that capital letters are inherently hard to read. 全大写的文字阅读起来比较慢，其主要原因也许不是人们通常所理解的小写的单词有凸凹的“几何形状”，而只是人们阅读的比较少罢了。
 
@@ -56,7 +56,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 6. People read faster with a longer line length, but they prefer a shorter line length. 有趣的是，文字排版的column宽度，往往是较长（100字长）读者阅读速度越快（因为视觉焦点换行次数少），越短（45-72字长）读者越容易有好感（因为阅读体验好）。所以建议排版时，对于阅读速度没有要求的情况还是短比较好。
 
 
-## How People Remember
+### How People Remember
 
 1. Short-term memory is limited. 短期记忆是困难的，而且在外界的interruption下特别容易丢失，因此不要让用户去记这种东西，万不得已则要避免任何interruption。
 
@@ -75,7 +75,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 8. The most vivid memories are wrong. Remember traumatic or dramatic events in great details is called "flashbulb memory", they are vivid but full of errors. 人们总是倾向于认为那些鲜活甚至栩栩如生的“大事件”记忆必然是千真万确，要不然怎么可能记得这么清楚，但事实情况是——这些“大事件”的记忆并不比其他普通事件更清楚更准确，时间长了还是会遗忘或是添油加醋。这真是一个令人沮丧的事实。因此这里有一个很好的建议：If you know someone had a dramatic or traumatic experience, you need to understand two things: first, they'll be convinced that what they remember is accurate; second, it's not exactly true.
 
 
-## How People Think
+### How People Think
 
 1. People process information better in bite-size chunks
 
@@ -104,7 +104,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 13. Culture affects how people think.
 
 
-## How People Focus Their Attention
+### How People Focus Their Attention
 
 1. Attention is selective.
 
@@ -127,7 +127,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 10. For people to pay attention to something, they must first perceive it.
 
 
-## What Motivates People
+### What Motivates People
 
 1. People are more motivated as they get closer to a goal, even with illusion of progress. 商家的积分卡就是这个道理。
 
@@ -156,7 +156,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 13. People are motivated by autonomy because it makes them feel in control.
 
 
-## People Are Social Animals
+### People Are Social Animals
 
 1. The "Strong tie" group size limit is 150 people ([Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)). 邓巴数，是指能与某人维持紧密关系人数的上限是150人。
 
@@ -177,7 +177,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 9. People can tell when a smile is real or fake more accurately with video than static picture.
 
 
-## How People Feel
+### How People Feel
 
 1. Seven basic emotions -*Joy, Sadness, Contempt, Fear, Disgust, Surprise & Anger* - are universal. Gestures are NOT. 
 
@@ -208,7 +208,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 13. People want what is familiar when they are sad or scared. 人们在悲伤和恐惧的时候，更需要安全感，而熟悉的东西比较有安全感。
 
 
-## People Make Mistakes
+### People Make Mistakes
 
 1. People will always make mistakes, there is no fail-safe product.
 
@@ -221,7 +221,7 @@ One of the most interesting part of the book is its structure - one hundred "sec
 5. People use different error strategies.
 
 
-## How People Decide
+### How People Decide
 
 1. People make most decisions unconsciously. 人们的很多决策是受潜意识支配的，但人们往往更愿意相信自己的决策是完全理性和符合逻辑，尽管并不是这样的。
 
