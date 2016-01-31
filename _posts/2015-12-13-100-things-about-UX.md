@@ -8,7 +8,7 @@ I came across this super interesting book about UX design: [100 Things Every Des
 
 One of the most interesting part of the book is its structure - one hundred "section" which are often 1 or 2 pages long - straight to the point and informative. So I feel it would be quite useful to write a summary of the book for help me better grasp the essences and future reference as well.
 
-![alt text](/assets/100-things-every-design-needs-to-know-about-people.jpg)
+![alt text](/assets/images/100-things-every-design-needs-to-know-about-people.jpg)
 
 ### How People See
 

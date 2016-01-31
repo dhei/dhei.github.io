@@ -6,7 +6,7 @@ comments: true
 
 [《万万没想到--用理工科思维理解世界》](https://book.douban.com/subject/25986341/)是知名科普博主万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)的[博客](http://www.geekonomics10000.com/)集结成册而成的科普书籍，介绍怎样用理工科的逻辑和理性思维来理解世界。读罢此书，对于其中一篇探讨[《如何通过练习一万小时成为天才》](http://www.geekonomics10000.com/519/)的文章深感赞同，觉得有必要写篇读后感。
 
-![alt text](/assets/wan-wan-mei-xiang-dao.jpg)
+![alt text](/assets/images/wan-wan-mei-xiang-dao.jpg)
 [万万没想到——用理工科思维理解世界](https://book.douban.com/subject/25986341/)
 
 >各个领域需要的练习时间非常不同。成为顶尖高手的确需要长时间的练习。强调练习的同时绝对不能否定天赋的重要性。对体育和音乐之类的项目来说，没有天赋可能再怎么练也没用。真正的关键根本就不是训练时间的长短，而是训练的方法。
@@ -17,7 +17,7 @@ comments: true
 
 任何一个优秀的程序员都知道离开自己熟悉的“**舒适区域**”(out of comfort zone) 对于学习和提高技术能力的重要性，这也是很多大牛程序员推荐最好能够每年学习一门新的编程语言或者技术框架，以开拓思路并保持强大的学习能力。
 
-![alt text](/assets/comfort-zone.jpg)
+![alt text](/assets/images/comfort-zone.jpg)
 
 >（2）把要训练的内容分成**有针对性**的小块，对每一个小块进行重复练习，并且训练有高度**针对性**。
 
@@ -27,7 +27,7 @@ comments: true
 
 及时的反馈给学习过程提供的巨大的便利，在很多解释型的轻量级语言的 [REPL(Read Eval Print Loop)](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) 上体现的十分明显。比如我们熟知的Python语言和Node.js框架都有非常好用的自带的REPL，能够直接在命令行里运行code snippet，减少了写代码不必要的overhead，提高了学习效率。相比之下，大部分编译型的语言，比如C++/Java就没有自带的REPL，需要先编译再运行，提高了学习成本。
 
-![alt text](/assets/repl-loop.png)
+![alt text](/assets/images/repl-loop.png)
 
 >（4）练习会很辛苦，必须**注意力高度集中**。
 
