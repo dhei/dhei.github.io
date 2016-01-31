@@ -105,10 +105,12 @@ By default, your GitHub Pages hosted Jekyll site lives in `https://{your-github-
 ##### Disqus Comments
 [Disqus] comments system is very popular these days, and extremely easy to plug into your site. I decided to add Disqus to the default page by adding this line to [_layouts/post.html](https://github.com/dhei/dhei.github.io/blob/master/_layouts/post.html):
 
-{% highlight python %}
+{% highlight html %}
+{% raw %}
 
 {% include comments.html %}
 
+{% endraw %}
 {% endhighlight %}
 
 And created a [_includes/comments.html](https://github.com/dhei/dhei.github.io/blob/master/_includes/comments.html) to include JavaScript code given by Disqus:
@@ -141,11 +143,14 @@ There is a catch in the above JavaScript code - you need `var disqus_developer =
 ##### Google Analytics
 I am completely new to [Google Analytics] and I found it's really simple to plug into your site. Like the way I add Disqus comments, it's a one line change to [_layouts/default.html](https://github.com/dhei/dhei.github.io/blob/master/_layouts/default.html):
 
-{% highlight python %}
+{% highlight html %}
+{% raw %}
 
 {% include google_analytics.html %}
 
+{% endraw %}
 {% endhighlight %}
+
 
 And created a [_includes/google_analytics.html](https://github.com/dhei/dhei.github.io/blob/master/_includes/google_analytics.html) to include JavaScript code given by Google:
 
