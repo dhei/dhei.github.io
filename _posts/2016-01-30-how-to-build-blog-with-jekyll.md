@@ -22,9 +22,9 @@ From my point of view, there are a few reasons why you might consider using Jeky
 
 * **Static Site** - Jekyll compile your content into static site before deployment. Static content instantly gives you massive scalability almost for free. If scalability is important for your site, static site technology might be a good idea.
 
-* **Free Hosting on GitHub Pages** - [GitHub Pages]() hosted your open sourced site for free, even on a custom domain name.
+* **Free Hosting on GitHub Pages** - [GitHub Pages](https://pages.github.com/) hosted your open sourced site for free, even on a custom domain name.
 
-* **Customization** - All the plugins you asked for, such as [Pagination](), [Permalinks](), [Templating]() and more.
+* **Customization** - All the plugins you asked for, such as [Pagination](http://jekyllrb.com/docs/permalinks/), [Permalinks](http://jekyllrb.com/docs/permalinks/), [Templating](http://jekyllrb.com/docs/templates/) and [more](http://jekyllrb.com/docs/plugins/).
 
 ## How to Get Started
 
@@ -79,7 +79,7 @@ Yes, it *is* this simple.
 
 #### Hosting on GitHub Pages
 
-Now you want to deploy your Jekyll site to Github Pages to take advantages of their free hosting. You can follow GitHub Pages instructions [here](). You simply create a new repository named `{your-github-alias}.github.io`, commit and push your changes to GitHub. Your Jekyll site will go alive on `http://{your-github-alias}.github.io` in seconds.
+Now you want to deploy your Jekyll site to Github Pages to take advantages of their free hosting. You can follow GitHub Pages instructions [here](https://pages.github.com/). You simply create a new repository named `{your-github-alias}.github.io`, commit and push your changes to GitHub. Your Jekyll site will go alive on `http://{your-github-alias}.github.io` in seconds.
 
 Congratulations, you just created and deployed your Jekyll blog hosted on GitHub Pages.
 
@@ -160,6 +160,7 @@ And created a [_includes/google_analytics.html](https://github.com/dhei/dhei.git
 ## More Links
 
 * Jekyll GitHub project [https://github.com/jekyll/jekyll]()
-* Jekyll minimalist style theme Lanyon on [GitHub](https://github.com/poole/lanyon) with [demo](http://lanyon.getpoole.com/)  
-* Joshua Lande's post on [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
+* Jekyll minimalist style theme Lanyon on [GitHub](https://github.com/poole/lanyon) with [demo](http://lanyon.getpoole.com/)
+* Tutorial [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/)
+* Joshua Lande's tutorial [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
 
