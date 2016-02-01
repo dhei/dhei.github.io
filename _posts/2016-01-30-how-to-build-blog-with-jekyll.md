@@ -159,8 +159,8 @@ And created a [_includes/google_analytics.html](https://github.com/dhei/dhei.git
 
 ## More Links
 
-* Jekyll GitHub project [https://github.com/jekyll/jekyll]()
+* Jekyll GitHub [project](https://github.com/jekyll/jekyll)
 * Jekyll minimalist style theme Lanyon on [GitHub](https://github.com/poole/lanyon) with [demo](http://lanyon.getpoole.com/)
-* Tutorial [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/)
-* Joshua Lande's tutorial [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
+* Julian Thilo's tutorial - [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/)
+* Joshua Lande's tutorial - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
 
