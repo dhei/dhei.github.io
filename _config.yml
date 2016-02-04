@@ -10,7 +10,6 @@ tagline:             'Thoughts on Technology and Everything Else'
 description:         'Blog of Di Hei'
 url:                 'http://diheiblog.com'
 baseurl:             ''
-gems:                [jekyll-paginate]
 paginate:            2
 
 # About/contact
@@ -20,6 +19,8 @@ author:
   email:             ''
 
 # Custom vars
-version:             1.0.0
-
 highlighter:         pygments
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
