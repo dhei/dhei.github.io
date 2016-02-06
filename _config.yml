@@ -19,7 +19,7 @@ author:
   email:             ''
 
 # Custom vars
-highlighter:         pygments
+highlighter:         rouge
 
 gems:
   - jekyll-feed
