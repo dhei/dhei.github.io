@@ -94,7 +94,7 @@ My blog is built by forking [Lanyon](https://github.com/poole/lanyon) repository
 * Directory [_layouts](https://github.com/dhei/dhei.github.io/tree/master/_layouts) and [public](https://github.com/dhei/dhei.github.io/tree/master/public) contains the absolutely essentiall parts - HTML templating pages and CSS required for this site. It's nothing fancy, just the minimal HTML/CSS required.
 * Directory [_includes](https://github.com/dhei/dhei.github.io/tree/master/_includes) contains all the *extra* plugins necessary for my site, such as [Disqus](https://disqus.com/) commenting system, and [Google Analytics](https://www.google.com/analytics/).
 * Directory [assets](https://github.com/dhei/dhei.github.io/tree/master/assets) contains my media files including images.
-* [_config.yml](https://github.com/dhei/dhei.github.io/blob/master/_config.yml) is the Jekyll's configuration in [YML](http://fdik.org/yml/) format.
+* [_config.yml](https://github.com/dhei/dhei.github.io/blob/master/_config.yml) is the Jekyll's configuration in [YAML](http://yaml.org/) format.
 * [CNAME](https://github.com/dhei/dhei.github.io/blob/master/CNAME) is where you configure your custom domain name, for instance: `diheiblog.com`
 
 ## Customization
