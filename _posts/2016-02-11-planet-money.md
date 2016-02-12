@@ -6,7 +6,10 @@ comments: true
 
 美国全国公共广播电台 [NPR](http://www.npr.org/)（National Public Radio） 的 [Planet Money Podcast](http://www.npr.org/podcasts/510289/planet-money) 是我最喜欢的通俗经济类播客节目，有故事也有干货，在此向对社会生活中的通俗经济学感兴趣的朋友隆重推荐。[Plant Money](http://www.npr.org/podcasts/510289/planet-money) 节目每周播送一期，至今已经播送七八年的时间，已有六百多期节目。我从最近两年的几十期节目之中，挑选了以下几期节目，加上我自己的思考，分享于此。
 
+![](/assets/images/planet-money.jpg)
+
 ### [Episode 590: The Planet Money Workout](http://www.npr.org/sections/money/2015/12/16/460011322/episode-590-the-planet-money-workout)
+
 
 对于大部分商店来说，如果没有顾客光临就没有收入，意味着关门大吉。但对于健身房而言，空空如也降低了的运营成本，反而是商业上“成功”的标志。健身房的成功的秘诀就是：吸纳尽可能多的愿意交钱成为会员但并不前来健身的“懒人们”。在美国，健身房通常采用年票制的绑定来吸引那些自认为“既然已经交了钱做出了commitment，那么一定会有动力来健身”的懒人们，而不幸的是懒人们往往还是成了冤大头。健身房通常还有几个小伎俩来增加customer retention，包括室内设计更加温馨，还有提供一些免费的小礼品来做“小恩小惠”。
 
