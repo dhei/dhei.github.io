@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Should Listen Planet Money Podcasts
+title: NPR's Planet Money Podcasts
 comments: true
 ---
 
