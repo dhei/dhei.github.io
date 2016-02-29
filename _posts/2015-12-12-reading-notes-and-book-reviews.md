@@ -158,7 +158,7 @@ comments: true
 
     ![alt text](/assets/images/41-a-portrait-of-my-father.jpg)
 
-    小布什给他爹老布什总统写的传记，了解布什政治家族的高可信度的一手资料。这本书读罢了解到两点，一方面是家族老一辈革命家的老布什同志从军从商再到从政的白手起家发迹史，另一方面也自述了“富二代”加“官二代”的小布什同志的青年时代的成长经历。书中穿插着小布什特有的幽默感，最让人印象深刻的段子竟然是——晚年的老布什夫妇和卸任后的比尔克林顿尽释前嫌重归于好，克林顿自嘲自己是the black sheep of Bush Family because Barbara Bush would never give up a chance to reclaim another president for Bush family.
+    小布什给他爹老布什总统写的传记，了解布什政治家族的高可信度的一手资料。这本书读罢了解到两点，一方面是家族老一辈革命家的老布什同志从军从商再到从政的白手起家发迹史，另一方面也自述了“富二代”加“官二代”的小布什同志的青年时代的成长经历。书中穿插着小布什特有的幽默感，最让人印象深刻的段子竟然是——晚年的老布什夫妇和卸任后的比尔克林顿尽释前嫌重归于好，克林顿自嘲自己是 [the black sheep of Bush Family because Barbara Bush would never give up a chance to reclaim another president for Bush family](http://www.huffingtonpost.com/2013/04/25/bill-clinton-black-sheep_n_3156101.html).
 
 3. [Decision Points](http://www.amazon.com/Decision-Points-George-W-Bush/dp/0307590615/)
 
