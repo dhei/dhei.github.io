@@ -10,7 +10,7 @@ So I built my first [blog](http://diheiblog.com) hosting on [GitHub Pages](https
 
 ## So What is Jekyll?
 
-![](/assets/images/jekyll-logo-light-solid.png)
+[![](/assets/images/jekyll-logo-light-solid.png)](http://jekyllrb.com/)
 
 Here is what they say about themselves on [GitHub](https://github.com/jekyll/jekyll):
 

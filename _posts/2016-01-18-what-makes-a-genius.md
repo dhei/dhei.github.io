@@ -6,8 +6,7 @@ comments: true
 
 [《万万没想到--用理工科思维理解世界》](https://book.douban.com/subject/25986341/)是知名科普博主万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)的[博客](http://www.geekonomics10000.com/)集结成册而成的科普书籍，介绍怎样用理工科的逻辑和理性思维来理解世界。读罢此书，对于其中一篇探讨[《如何通过练习一万小时成为天才》](http://www.geekonomics10000.com/519/)的文章深感赞同，觉得有必要写篇读后感。
 
-![alt text](/assets/images/wan-wan-mei-xiang-dao.jpg)
-[万万没想到——用理工科思维理解世界](https://book.douban.com/subject/25986341/)
+[![万万没想到——用理工科思维理解世界](/assets/images/wan-wan-mei-xiang-dao.jpg)](https://book.douban.com/subject/25986341/)
 
 >各个领域需要的练习时间非常不同。成为顶尖高手的确需要长时间的练习。强调练习的同时绝对不能否定天赋的重要性。对体育和音乐之类的项目来说，没有天赋可能再怎么练也没用。真正的关键根本就不是训练时间的长短，而是训练的方法。
 
