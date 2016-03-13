@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NPR's Planet Money Podcasts
+title: NPR's Planet Money Podcast
 comments: true
 ---
 
