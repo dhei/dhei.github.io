@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A brief sumary of logical fallacies
+title: A Short List of Common Logical Fallacies
 comments: true
 ---
 
