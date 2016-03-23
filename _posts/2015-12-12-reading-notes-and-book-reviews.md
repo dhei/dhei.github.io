@@ -144,7 +144,7 @@ comments: true
 
     ![alt text](/assets/images/america-alone.jpg)
 
-    知名的美国保守派学者Mark Steyn关于欧洲穆斯林化与西方的衰落的经典论述，美国科罗拉多大学物理学家万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)在微博上有一篇对于此书精彩的[读书笔记](http://weibo.com/p/1001603796644201140832)值得推荐
+    知名的美国保守派学者[Mark Steyn](http://www.steynonline.com/)关于欧洲穆斯林化与西方的衰落的经典论述，美国科罗拉多大学物理学家万维钢老师[(@GK同人于野)](http://weibo.com/geekonomics)在微博上有一篇对于此书精彩的[读书笔记](http://weibo.com/p/1001603796644201140832)值得推荐
 
 ### History and Autobiography
 
