@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What Makes a Genius?
+description: 有针对性地刻意练习成就天才
+image: wan-wan-mei-xiang-dao.jpg
 comments: true
 ---
 

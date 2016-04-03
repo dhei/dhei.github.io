@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hackers & Painters reading notes
+description: Paul Graham《黑客与画家》读书笔记
+image: hackers-and-painters.jpg
 comments: true
 ---
 

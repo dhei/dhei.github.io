@@ -1,6 +1,8 @@
 ---
 layout: post
 title: NPR's Planet Money Podcast
+description: 美国国家公共电台(NPR)的Planet Money Podcast播客节目推荐
+image: planet-money.jpg
 comments: true
 ---
 

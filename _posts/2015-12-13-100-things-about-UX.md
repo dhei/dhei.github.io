@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 100 Things about Design and Psychology
+description: 关于设计的100条和心理学有关的建议
+image: 100-things-every-design-needs-to-know-about-people.jpg
 comments: true
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Reading Notes and Book Reviews
+description: 过去两年来我读书的书单，按照类别分为七大类：软件工程；产品设计；创业；心理学；经济学；传记；科普。
+image: sapiens-a-brief-history-of-humankind.jpg
 comments: true
 ---
 

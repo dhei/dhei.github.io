@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to Build a Minimalist Blog with Jekyll Hosted on GitHub Pages
+description: The easiest way to build your first static blog
+image: jekyll-logo-light-solid.png
 comments: true
 ---
 
