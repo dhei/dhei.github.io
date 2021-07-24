@@ -138,7 +138,7 @@ Parks are rated by the following aspects. Full score is 25.
 - Wildlife:
 - Accessibility:
 
-## Olympic National Park
+### Olympic National Park
 
 | Total | Scenic-ness | Scenery Variety | Uniqueness | Wildlife | Accessibility |
 |---|---|---|---|---|---|
