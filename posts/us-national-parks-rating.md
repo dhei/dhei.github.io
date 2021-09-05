@@ -58,7 +58,7 @@ Parks are rated by the following aspects. Full score is 25.
 
 | Total | Scenic-ness | Scenery Variety | Uniqueness | Wildlife | Accessibility |
 |---|---|---|---|---|---|
-| 21 | 10/10 | 3/3 | 4/5 | 3/4 | 2/3 |
+| 22 | 10/10 | 3/3 | 4/5 | 3/4 | 2/3 |
 
 - Scenic-ness:
 - Scenery Variety:
