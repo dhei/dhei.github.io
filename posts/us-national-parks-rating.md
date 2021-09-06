@@ -22,22 +22,24 @@ Parks are rated by the following aspects. Full score is 10.
 | Yosemite | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
 | Yellowstone | 9.5 | 4.5 | 2 | 1.5 | 1 | 0.5 |
 | Rocky Mountain | 9 | 4.5 | 2 | 1 | 1 | 0.5 |
-| Mountain Rainier | 9 | 4.5 | 2 | 1 | 1 | 0.5 |
+| Mount Rainier | 9 | 4.5 | 2 | 1 | 1 | 0.5 |
 | Zion | 8.5 | 4.5 | 2 | 1 | 0.5 | 0.5 |
 | Olympic | 8 | 3.5 | 2 | 1 | 1 | 0.5 |
 | North Cascades | 8 | 4 | 1.5 | 1 | 1 | 0.5 |
 | Grand Canyon | 8 | 4 | 2 | 1.5 | 0 | 0.5 |
 | Crater Lake | 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
-| Redwoods | 7.5 | 4 | 1.5 | 1.5 | 0 | 0.5 |
+| Redwood | 7.5 | 4 | 1.5 | 1.5 | 0 | 0.5 |
 | Grand Teton | 7.5 | 4 | 1 | 1 | 1 | 0.5 |
 | Badlands | 7.5 | 3.5 | 1.5 | 1 | 1 | 0.5 |
 | Arches | 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
 | Bryce Canyon | 7 | 4 | 1 | 1.5 | 0 | 0.5 |
 | Death Valley | 6 | 3 | 1 | 1.5 | 0 | 0.5 |
 | Dry Tortugas | 6 | 3.5 | 0.5 | 1.5 | 0.5 | 0 |
+| Sequoia | 5.5 | 2.5 | 1 | 1.5 | 0 | 0.5 |
 | Acadia | 5.5 | 3 | 1 | 0.5 | 0.5 | 0.5 |
 | Everglades | 3 | 1 | 0 | 0.5 | 1 | 0.5 |
 | Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
+| Wind Cave | 2.5 | 0.5 | 0 | 1.5 | 0 | 0.5 |
 
 ## Rating
 
@@ -286,6 +288,18 @@ Parks are rated by the following aspects. Full score is 10.
 | Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
 |---|---|---|---|---|---|
 | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
+
+- Scenic:
+- Variety:
+- Uniqueness:
+- Wildlife:
+- Accessibility:
+
+### Wind Cave National Park
+
+| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
+|---|---|---|---|---|---|
+| 2.5 | 0.5 | 0 | 1.5 | 0 | 0.5 |
 
 - Scenic:
 - Variety:
