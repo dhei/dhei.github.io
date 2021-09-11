@@ -16,7 +16,7 @@ Parks are rated by the following aspects. Full score is 10.
 
 ## Ranking
 
-| Park | Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
+| Park | Total (10 points) | Scenic (5 points) | Variety (2 points) | Uniqueness (1.5 points) | Wildlife (1 point) | Accessibility (0.5 point) |
 |---|---|---|---|---|---|---|
 | Glaciers | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
 | Yosemite | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
