@@ -31,6 +31,7 @@ Parks are rated by the following aspects. Full score is 10.
 | Crater Lake | 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
 | Redwood | 7.5 | 4 | 1.5 | 1.5 | 0 | 0.5 |
 | Grand Teton | 7.5 | 4 | 1 | 1 | 1 | 0.5 |
+| White Sands | 7.5 | 4 | 1 | 1.5 | 0.5 | 0.5 |
 | Badlands | 7.5 | 3.5 | 1.5 | 1 | 1 | 0.5 |
 | Arches | 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
 | Bryce Canyon | 7 | 4 | 1 | 1.5 | 0 | 0.5 |
