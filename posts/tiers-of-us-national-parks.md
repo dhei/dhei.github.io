@@ -23,14 +23,14 @@
 - Badlands
 - Death Valley
 
-### Tier 3: A+, really good, less interesting than tier 2, worth revisit
+### Tier 3: A+, fabulous, less interesting than tier 2, worth seeing many times
 - Bryce Canyon
 - Capitol Reef
 - Great Sand Dunes
-- Carlsbad Cavern
 
-### Tier 4: A-, good, worth seeing
+### Tier 4: A, good, worth seeing again
 - Acadia
+- Carlsbad Cavern
 - Petrified Forest
 - Dry Tortugas
 - Black Canyon of Gunnison
@@ -39,7 +39,7 @@
 - Saguaro
 - Sequoia
 
-### Tier 5: BBB or below, mediocre, not worth revisit
+### Tier 5: BBB or below, not as interesting as tier 4
 - Mesa Verde
 - Guadalupe Mountains
 - Everglades
