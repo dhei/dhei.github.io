@@ -1,4 +1,140 @@
-# U.S. National Parks Rating
+# U.S. National Parks
+
+## Parks by category
+
+When people think of national parks, they most likely think of exceptional natural beauty, unique geological features and wildlife. However, there are three categories of U.S. national parks: those known for their scenic beauty, those knowns for their unique geological or biological features and those knowns for their cultural or historical significance. It is like comparing apples to oranges if we were to compare Redwoods to Mesa Verde, because they are known for completely incomparable features.
+
+### Category A: Scenery is the main attraction
+### A1: best of the best
+- Glacier
+- Yosemite
+- Yellowstone
+
+#### Glacier
+
+Widely recognized by the hikers community as the most scenic national parks in the contigous U.S. 
+
+The park has the highest number of hiking trails among all U.S. national parks.
+
+The park is famous for its biodiversity and wildlife. One of the few national parks in the contiguous U.S. you can see Grizzly bears.
+
+#### Yosemite
+
+The park is famous for its granite cliffs, magestic waterfalls and wildlife. It is the best national park in California.
+
+#### Yellowstone
+
+The first national park in the U.S. The ultimate national park experience with numerous activities and attractions.
+
+The park is famous for its geothermal features and wildlife.
+
+### A2: exceptional scenery
+- Rocky Mountain
+- Mount Rainier
+- Zion
+- Canyonlands
+- Arches
+- North Cascades
+- Grand Canyon
+- Crater Lake
+- Grant Teton
+- Olympic
+- Bryce Canyon
+- Capitol Reef
+- Acadia
+
+#### Rocky Mountain
+
+The most scenic national park in Colorado. The second most scenic national park in U.S. Rockies - only after Glacier national park.
+
+#### Mount Rainier
+
+The most scenic national park in the Cascades mountain range along the Pacific coast. The most topographically prominent mountain in the contiguous U.S.
+
+#### Zion
+
+One of the most scenic national parks in the Southwest, if not the best.
+
+#### Canyonlands
+
+In my opinion, the most scenic canyon landscape in the Southwest, more interesting than the Grand Canyon.
+
+#### Arches
+
+The Disneyland of natural sandstone arches. The park contains the highest density of natural arches in the world.
+
+#### North Cascades
+
+In my opinion, the North Cascades section of the Cascades mountain range rivals the Rockies in terms of scenic beauty.
+
+With approximately 312 glaciers, North Cascades National Park has the most glaciers of any US park outside Alaska, and a third of all the glaciers in the contiguous U.S.
+
+#### Grand Canyon
+
+The most famous canyon in the world.
+
+#### Crater Lake
+
+The deepest lake in the U.S. The bluest lake in the U.S. The color of the lake looks so unreal that it looks like it has been photoshopped.
+
+#### Grand Teton
+
+The most iconic skyline of Wyoming. One of the most photographed mountains in the U.S.
+
+#### Olympic
+
+The 3-in-1 national park: mountains, rainforest and ocean.
+
+#### Bryce Canyon
+
+One of the most unique canyon landscapes in the Southwest.
+
+#### Capitol Reef
+
+The least visited and the most underrated national park in Utah.
+
+#### Acadia
+
+The most scenic national park in New England.
+
+### A3: below average in this category
+- Guadalupe Mountains
+- Shenandoah
+
+#### Guadalupe Mountains
+
+The tallest peak in Texas.
+
+#### Shenandoah
+
+Beautiful park in the Appalachians. 
+
+In my opinion, it's a bit unfair to compare Shenandoah to the parks in the West, because the Appalachians are not comparable to Rockies or the Cascades.
+
+### Category B: Unique geological/biological features is the main attraction
+### B1: outstanding geological features
+- White Sands
+- Badlands
+- Death Valley
+- Great Sand Dunes
+- Carlsbad Cavern
+- Petrified Forest
+- Black Canyon of Gunnison
+- Great Basin
+- Joshua Tree
+
+### B2: outstanding biological features
+- Redwoods
+- Dry Tortugas
+- Saguaro
+- Sequoia
+
+### B3: below average in this category
+- Everglades
+- Wind Cave
+
+### Type C: Historical/cultural features are the main attraction
+- Mesa Verde
 
 ## How do I rate a national park?
 
@@ -65,256 +201,4 @@ Parks are rated by the following aspects. Full score is 10.
 - Uniqueness: The park's natural landscape is similar to Banff National Park of Canada.
 - Wildlife: The park is famous for its biodiversity and wildlife. One of the only few national parks where you may see Grizzly bears.
 - Accessibility: The park is in a remote corner of Northwest Montana. The world-famous Going-to-the-sun road is the most scenic drive of the mountainous terrain of the U.S., which makes it more accessible than other mountainous terrain parks. Many of the most scenic parts are only accessible via long day hikes or multi-day hikes.
-
-### Yosemite National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 10 | 5 | 2 | 1.5 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Yellowstone National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 9.5 | 4.5 | 2 | 1.5 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Rocky Mountain National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 9 | 4.5 | 2 | 1 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Moutain Rainier National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 9 | 4.5 | 2 | 1 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Zion National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 8.5 | 4.5 | 2 | 1 | 0.5 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Olympic National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 8 | 3.5 | 2 | 1 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### North Cascades National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 8 | 4 | 1.5 | 1 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Grand Canyon National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 8 | 4 | 2 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Crater Lake National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Redwoods National and State Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 7.5 | 4 | 1.5 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Grand Teton National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 7.5 | 4 | 1 | 1 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Badlands National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 7.5 | 3.5 | 1.5 | 1 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Arches National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Bryce Canyon National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 7 | 4 | 1 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Death Valley National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 6 | 3 | 1 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Dry Tortugas National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 6 | 3.5 | 0.5 | 1.5 | 0.5 | 0 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Sequoia National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 5.5 | 2.5 | 1 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Acadia National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 5.5 | 3 | 1 | 0.5 | 0.5 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Everglades National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 3 | 1 | 0 | 0.5 | 1 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Shenandoah National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
-
-### Wind Cave National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 2.5 | 0.5 | 0 | 1.5 | 0 | 0.5 |
-
-- Scenic:
-- Variety:
-- Uniqueness:
-- Wildlife:
-- Accessibility:
 
