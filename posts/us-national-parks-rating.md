@@ -187,18 +187,3 @@ Parks are rated by the following aspects. Full score is 10.
 | Everglades | 3 | 1 | 0 | 0.5 | 1 | 0.5 |
 | Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
 | Wind Cave | 2.5 | 0.5 | 0 | 1.5 | 0 | 0.5 |
-
-## Rating
-
-### Glaciers National Park
-
-| Total | Scenic | Variety | Uniqueness | Wildlife | Accessibility |
-|---|---|---|---|---|---|
-| 10 | 5 | 2 | 1.5 | 1 | 0.5 |
-
-- Scenic: Absolutely world-class. Widely recognized by the outdoor enthusiast as the most scenic national parks in the entire U.S.
-- Scenic Variety: The park has the highest number of hiking trails among all U.S. national parks.
-- Uniqueness: The park's natural landscape is similar to Banff National Park of Canada.
-- Wildlife: The park is famous for its biodiversity and wildlife. One of the only few national parks where you may see Grizzly bears.
-- Accessibility: The park is in a remote corner of Northwest Montana. The world-famous Going-to-the-sun road is the most scenic drive of the mountainous terrain of the U.S., which makes it more accessible than other mountainous terrain parks. Many of the most scenic parts are only accessible via long day hikes or multi-day hikes.
-
