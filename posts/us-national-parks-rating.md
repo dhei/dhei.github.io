@@ -1,5 +1,49 @@
 # U.S. National Parks
 
+## National parks I've visited
+
+Pacific Coast (California, Oregon, Washington):
+- North Cascades
+- Olympic
+- Mount Rainier
+- Crater Lake
+- Redwood
+- Yosemite
+- Sequoia
+- Death Valley
+- Joshua Tree
+
+SouthWest U.S. (Arizona, Utah, New Mexico, Nevada, Texas):
+- Grand Canyon
+- Saguaro
+- Petrified Forest
+- Zion
+- Bryce Canyon
+- Arches
+- Canyonland
+- Capitol Reef
+- Calsbad Caverns
+- White Sands
+- Great Basin
+- Guadalupe Mountains
+
+Rocky Mountains & Great Plains (Colorado, Montana, Wyoming, South Dakota):
+- Rocky Mountain
+- Great Sand Dunes
+- Black Canyon of the Gunnison
+- Mesa Verde
+- Glacier
+- Yellowstone
+- Grand Teton
+- Badlands
+- Wind Cave
+
+East U.S. (Maine, Floria, Virginia):
+- Acadia
+- Everglades
+- Dry Tortugas
+- Shenandoah
+
 ## Parks by category
 
 When people think of national parks, they most likely think of exceptional natural beauty, unique geological features and wildlife. However, there are three categories of U.S. national parks: those known for their scenic beauty, those knowns for their unique geological or biological features and those knowns for their cultural or historical significance. It is like comparing apples to oranges if we were to compare Redwoods to Mesa Verde, because they are known for completely incomparable features.
@@ -121,13 +165,13 @@ In my opinion, it's a bit unfair to compare Shenandoah to the parks in the West,
 - Petrified Forest
 - Black Canyon of Gunnison
 - Great Basin
-- Joshua Tree
 
 ### B2: outstanding biological features
 - Redwoods
 - Dry Tortugas
 - Saguaro
 - Sequoia
+- Joshua Tree
 
 ### B3: below average in this category
 - Everglades
