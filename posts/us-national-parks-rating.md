@@ -200,106 +200,48 @@ Parks are rated by the following aspects.
 
 - Activities: Is there any unique fun activities to do in the park? 
 
-## Category 1 (Scenery is the main attraction) scenary score
+## Category 1 (Scenery is the main attraction) score
 
-| Park | Scenary (8 points) | Uniqueness (2 points) |
-|---|---|---|---|---|---|---|
-| Glaciers | 10 | 5 | 2 |
-| Yosemite | 9.5 | 5 | 2 |
-| Yellowstone | 9.5 | 4.5 | 2 | 2 | 1 |
-| Rocky Mountain | 9 | 4.5 | 2 | 1.5 | 1 |
-| Mount Rainier | 9 | 4.5 | 2 | 1.5 | 1 |
-| Zion | 8.5 | 4.5 | 2 | 1 | 1 (hiking in water) |
-| Canyonlands | 8.5 | 4.5 | 2 | 0 | 1 (4x4 road) |
-| Olympic | 7.5 | 3.5 | 1 | 2 | 1 |
-| North Cascades | 6.5 | 4 | 1.5 | 1 | 0 |
-| Grand Canyon | 7 | 4 | 2 | 0 | 1 |
-| Crater Lake | 8 | 4.5 | 2 | 0.5 | 1 (boat tour) |
-| Grand Teton | 8 | 4 | 1.5 | 1.5 | 1 |
-| Arches | 6.5 | 4.5 | 2 | 0 | 0 |
-| Bryce Canyon | 6.5 | 4.5 | 2 | 0 | 0 |
-| Capitol Reef | 4 | 3 | 1 | 0 | 0 |
-| Petrified Forest | 6.5 | 3 | 2 | 0 | 0 |
-| Dry Tortugas | 7.5 | 3.5 | 1.5 | 1.5 | 1 (snorkling)|
-| Acadia | 5.5 | 3 | 1 | 0.5 | 0.5 | 0 |
-| Guadalupe Moutains | 4.5 | 2 | 1 | 0.5 | 0.5 | 0.5 |
-| Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
+| Park | Scenary score (10 points) |
+|---|---|
+| Glaciers | 10 |
+| Yosemite | 9.5 |
+| Yellowstone | 9 |
+| Rocky Mountain | 9 |
+| Mount Rainier | 9 |
+| Canyonlands | 9 |
+| North Cascades | 9 |
+| Dry Tortugas | 9 |
+| Zion | 8.5 |
+| Grand Canyon | 8.5 |
+| Crater Lake | 9.5 |
+| Grand Teton | 8.5 |
+| Arches | 8.5 |
+| Bryce Canyon | 8.5 |
+| Olympic | 8 |
+| Capitol Reef | 6 |
+| Acadia | 8 |
+| Guadalupe Moutains | 5 |
+| Shenandoah | 5 |
 
+## Category 2 (Unique geological/biological features is the main attraction) score
 
-| Park | Total (10 points) | Scenary (5 points) | Uniqueness (2 points) | Wildlife (2 point) | Activities (1 point) |
-|---|---|---|---|---|---|---|
-| Glaciers | 10 | 5 | 2 | 2 | 1 (kayaking) |
-| Yosemite | 9.5 | 5 | 2 | 1.5 | 1 |
-| Yellowstone | 9.5 | 4.5 | 2 | 2 | 1 |
-| Rocky Mountain | 9 | 4.5 | 2 | 1.5 | 1 |
-| Mount Rainier | 9 | 4.5 | 2 | 1.5 | 1 |
-| Zion | 8.5 | 4.5 | 2 | 1 | 1 (hiking in water) |
-| Canyonlands | 8.5 | 4.5 | 2 | 0 | 1 (4x4 road) |
-| Olympic | 7.5 | 3.5 | 1 | 2 | 1 |
-| North Cascades | 6.5 | 4 | 1.5 | 1 | 0 |
-| Grand Canyon | 7 | 4 | 2 | 0 | 1 |
-| Crater Lake | 8 | 4.5 | 2 | 0.5 | 1 (boat tour) |
-| Grand Teton | 8 | 4 | 1.5 | 1.5 | 1 |
-| Arches | 6.5 | 4.5 | 2 | 0 | 0 |
-| Bryce Canyon | 6.5 | 4.5 | 2 | 0 | 0 |
-| Capitol Reef | 4 | 3 | 1 | 0 | 0 |
-| Petrified Forest | 6.5 | 3 | 2 | 0 | 0 |
-| Dry Tortugas | 7.5 | 3.5 | 1.5 | 1.5 | 1 (snorkling)|
-| Acadia | 5.5 | 3 | 1 | 0.5 | 0.5 | 0 |
-| Guadalupe Moutains | 4.5 | 2 | 1 | 0.5 | 0.5 | 0.5 |
-| Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
+| Park | Scenary score (10 points) |
+|---|---|
+| White Sands | 10 |
+| Redwoods | 9.5 |
+| Badlands | 9 |
+| Death Valley | 9 |
+| Sequoia | 9 | 
+| Great Sand Dunes | 8 |
+| Carlsbad Cavern | 7 |
+| Petrified Forest | 7 | 
+| Joshua Tree | 6 |
+| Black Canyon of Gunnison | 6 |
+| Great Basin | 6 | 
+| Saguaro | 6 |
+| Everglades | 6 |
+| Wind Cave | 5 |
 
 
-
-### Category 2 (Unique geological/biological features is the main attraction) rating rules
-
-Parks are rated by the following aspects. Full score is 10.
-
-- Scenary: The rating of the raw natural beauty of the park. Score range from 0 to 5.
-
-- Variety: the measurement of the diversity of the scenery of the park. Score range from 0 to 2.
-
-- Uniqueness: the measurement of the distinctiveness of the scenery of the park. Score range from 0 to 1.5.
-
-- Wildlife: the measurement of the wildlife viewing experience of the park. Score range from 0 to 1.
-
-- Activities: Is there any unique fun activities to do in the park? Score range from 0 to 0.5.
-
-## Category 2 (Unique geological/biological features is the main attraction) rating
-
-| Park | Total (10 points) | Scenary (5 points) | Variety (2 points) | Uniqueness (1.5 points) | Wildlife (1 point) | Activities (0.5 point) |
-|---|---|---|---|---|---|---|
-| Glaciers | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
-| Yosemite | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
-| Yellowstone | 9.5 | 4.5 | 2 | 1.5 | 1 | 0.5 |
-| Rocky Mountain | 9 | 4.5 | 2 | 1 | 1 | 0.5 |
-| Mount Rainier | 9 | 4.5 | 2 | 1 | 1 | 0.5 |
-| Zion | 8.5 | 4.5 | 2 | 1 | 0.5 | 0.5 |
-| Canyonlands | 8.5 | 4.5 | 2 | 1.5 | 0 | 0.5 |
-| Olympic | 8 | 3.5 | 2 | 1 | 1 | 0.5 |
-| North Cascades | 8 | 4 | 1.5 | 1 | 1 | 0.5 |
-| Grand Canyon | 8 | 4 | 2 | 1.5 | 0 | 0.5 |
-| Crater Lake | 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
-| Redwood | 7.5 | 4 | 1.5 | 1.5 | 0 | 0.5 |
-| Grand Teton | 7.5 | 4 | 1 | 1 | 1 | 0.5 |
-| White Sands | 7.5 | 4 | 1 | 1.5 | 0.5 | 0.5 |
-| Badlands | 7.5 | 3.5 | 1.5 | 1 | 1 | 0.5 |
-| Arches | 7.5 | 4.5 | 1 | 1.5 | 0 | 0.5 |
-| Bryce Canyon | 7 | 4 | 1 | 1.5 | 0 | 0.5 |
-| Capitol Reef | 7 | 3.5 | 2 | 1 | 0 | 0.5 |
-| Petrified Forest | 6.5 | 3.5 | 1 | 1.5 | 0 | 0.5 |
-| Death Valley | 6 | 3 | 1 | 1.5 | 0 | 0.5 |
-| Dry Tortugas | 6 | 3.5 | 0.5 | 1.5 | 0.5 | 0 |
-| Great Sand Dunes | 6 | 3.5 | 0.5 | 1.5 | 0 | 0.5 |
-| Sequoia | 5.5 | 2.5 | 1 | 1.5 | 0 | 0.5 |
-| Acadia | 5.5 | 3 | 1 | 0.5 | 0.5 | 0.5 |
-| Saguaro | 5.5 | 2 | 1 | 1 | 1 | 0.5 |
-| Black Canyon of Gunnison | 5.5 | 2.5 | 1 | 1 | 0.5 | 0.5 |
-| Great Basin | 5.5 | 3 | 1 | 1 | 0 | 0.5 |
-| Carlsbad Cavern | 5 | 2 | 0.5 | 1.5 | 0.5 | 0.5 |
-| Mesa Verde | 5 | 1.5 | 1 | 1.5 | 0.5 | 0.5 |
-| Guadalupe Moutains | 4.5 | 2 | 1 | 0.5 | 0.5 | 0.5 |
-| Everglades | 3 | 1 | 0 | 0.5 | 1 | 0.5 |
-| Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
-| Wind Cave | 2.5 | 0.5 | 0 | 1.5 | 0 | 0.5 |
 
