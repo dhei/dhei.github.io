@@ -1,8 +1,12 @@
 # U.S. National Parks
 
+U.S. national parks are America's best idea.
+
 ## National parks I've visited
 
-Pacific Coast (California, Oregon, Washington):
+Up till the end of 2022, I've visitied 34 out of 63 U.S. national parks.
+
+Pacific (California, Oregon, Washington):
 - North Cascades
 - Olympic
 - Mount Rainier
@@ -13,7 +17,7 @@ Pacific Coast (California, Oregon, Washington):
 - Death Valley
 - Joshua Tree
 
-SouthWest U.S. (Arizona, Utah, New Mexico, Nevada, Texas):
+SouthWest (Arizona, Utah, New Mexico, Nevada, Texas):
 - Grand Canyon
 - Saguaro
 - Petrified Forest
@@ -38,7 +42,7 @@ Rocky Mountains & Great Plains (Colorado, Montana, Wyoming, South Dakota):
 - Badlands
 - Wind Cave
 
-East U.S. (Maine, Floria, Virginia):
+Eastern (Maine, Floria, Virginia):
 - Acadia
 - Everglades
 - Dry Tortugas
@@ -48,8 +52,8 @@ East U.S. (Maine, Floria, Virginia):
 
 When people think of national parks, they most likely think of exceptional natural beauty, unique geological features and wildlife. However, there are three categories of U.S. national parks: those known for their scenic beauty, those knowns for their unique geological or biological features and those knowns for their cultural or historical significance. It is like comparing apples to oranges if we were to compare Redwoods to Mesa Verde, because they are known for completely incomparable features.
 
-### Category A: Scenery is the main attraction
-### A1: best of the best
+### Category 1: Scenery is the main attraction
+### 1A: best of the best
 - Glacier
 - Yosemite
 - Yellowstone
@@ -72,7 +76,7 @@ The first national park in the U.S. The ultimate national park experience with n
 
 The park is famous for its geothermal features and wildlife.
 
-### A2: exceptional scenery
+### 1B: exceptional scenery
 - Rocky Mountain
 - Mount Rainier
 - Zion
@@ -141,7 +145,7 @@ The least visited and the most underrated national park in Utah.
 
 The most scenic national park in New England.
 
-### A3: below average in this category
+### 1C: good scenary
 - Guadalupe Mountains
 - Shenandoah
 
@@ -155,8 +159,8 @@ Beautiful park in the Appalachians.
 
 In my opinion, it's a bit unfair to compare Shenandoah to the parks in the West, because the Appalachians are not comparable to Rockies or the Cascades.
 
-### Category B: Unique geological/biological features is the main attraction
-### B1: outstanding geological features
+### Category 2: Unique geological/biological features is the main attraction
+### 2A: outstanding geological features
 - White Sands
 - Badlands
 - Death Valley
@@ -166,25 +170,92 @@ In my opinion, it's a bit unfair to compare Shenandoah to the parks in the West,
 - Black Canyon of Gunnison
 - Great Basin
 
-### B2: outstanding biological features
+### 2B: outstanding biological features
 - Redwoods
 - Dry Tortugas
 - Saguaro
 - Sequoia
 - Joshua Tree
 
-### B3: below average in this category
+### 2C: below average in this category
 - Everglades
 - Wind Cave
 
-### Type C: Historical/cultural features are the main attraction
+### Type 3: Historical/cultural features are the main attraction
 - Mesa Verde
 
 ## How do I rate a national park?
 
+It doesn't make much sense to use a single rule to measure all national parks because parks estiblished for different purposes are so different. It's like comparing apples to oranges if we were to compare Rocky Mountains NP to Mesa Verde NP. Instead, I will rate national parks in Category 1 and Category 2 separately.
+
+### Category 1 (Scenery is the main attraction) rating rules
+
+Parks are rated by the following aspects. 
+
+- Scenary: The score of the raw natural beauty of the park. 
+
+- Uniqueness: Can you find this type of scenary elsewhere in the world? 
+
+- Wildlife: Is there abundance of wildlife in the park? 
+
+- Activities: Is there any unique fun activities to do in the park? 
+
+## Category 1 (Scenery is the main attraction) scenary score
+
+| Park | Scenary (8 points) | Uniqueness (2 points) |
+|---|---|---|---|---|---|---|
+| Glaciers | 10 | 5 | 2 |
+| Yosemite | 9.5 | 5 | 2 |
+| Yellowstone | 9.5 | 4.5 | 2 | 2 | 1 |
+| Rocky Mountain | 9 | 4.5 | 2 | 1.5 | 1 |
+| Mount Rainier | 9 | 4.5 | 2 | 1.5 | 1 |
+| Zion | 8.5 | 4.5 | 2 | 1 | 1 (hiking in water) |
+| Canyonlands | 8.5 | 4.5 | 2 | 0 | 1 (4x4 road) |
+| Olympic | 7.5 | 3.5 | 1 | 2 | 1 |
+| North Cascades | 6.5 | 4 | 1.5 | 1 | 0 |
+| Grand Canyon | 7 | 4 | 2 | 0 | 1 |
+| Crater Lake | 8 | 4.5 | 2 | 0.5 | 1 (boat tour) |
+| Grand Teton | 8 | 4 | 1.5 | 1.5 | 1 |
+| Arches | 6.5 | 4.5 | 2 | 0 | 0 |
+| Bryce Canyon | 6.5 | 4.5 | 2 | 0 | 0 |
+| Capitol Reef | 4 | 3 | 1 | 0 | 0 |
+| Petrified Forest | 6.5 | 3 | 2 | 0 | 0 |
+| Dry Tortugas | 7.5 | 3.5 | 1.5 | 1.5 | 1 (snorkling)|
+| Acadia | 5.5 | 3 | 1 | 0.5 | 0.5 | 0 |
+| Guadalupe Moutains | 4.5 | 2 | 1 | 0.5 | 0.5 | 0.5 |
+| Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
+
+
+| Park | Total (10 points) | Scenary (5 points) | Uniqueness (2 points) | Wildlife (2 point) | Activities (1 point) |
+|---|---|---|---|---|---|---|
+| Glaciers | 10 | 5 | 2 | 2 | 1 (kayaking) |
+| Yosemite | 9.5 | 5 | 2 | 1.5 | 1 |
+| Yellowstone | 9.5 | 4.5 | 2 | 2 | 1 |
+| Rocky Mountain | 9 | 4.5 | 2 | 1.5 | 1 |
+| Mount Rainier | 9 | 4.5 | 2 | 1.5 | 1 |
+| Zion | 8.5 | 4.5 | 2 | 1 | 1 (hiking in water) |
+| Canyonlands | 8.5 | 4.5 | 2 | 0 | 1 (4x4 road) |
+| Olympic | 7.5 | 3.5 | 1 | 2 | 1 |
+| North Cascades | 6.5 | 4 | 1.5 | 1 | 0 |
+| Grand Canyon | 7 | 4 | 2 | 0 | 1 |
+| Crater Lake | 8 | 4.5 | 2 | 0.5 | 1 (boat tour) |
+| Grand Teton | 8 | 4 | 1.5 | 1.5 | 1 |
+| Arches | 6.5 | 4.5 | 2 | 0 | 0 |
+| Bryce Canyon | 6.5 | 4.5 | 2 | 0 | 0 |
+| Capitol Reef | 4 | 3 | 1 | 0 | 0 |
+| Petrified Forest | 6.5 | 3 | 2 | 0 | 0 |
+| Dry Tortugas | 7.5 | 3.5 | 1.5 | 1.5 | 1 (snorkling)|
+| Acadia | 5.5 | 3 | 1 | 0.5 | 0.5 | 0 |
+| Guadalupe Moutains | 4.5 | 2 | 1 | 0.5 | 0.5 | 0.5 |
+| Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
+
+
+
+### Category 2 (Unique geological/biological features is the main attraction) rating rules
+
 Parks are rated by the following aspects. Full score is 10.
 
-- Scenic: the measurement of the raw natural beauty of the park. Score range from 0 to 5.
+- Scenary: The rating of the raw natural beauty of the park. Score range from 0 to 5.
 
 - Variety: the measurement of the diversity of the scenery of the park. Score range from 0 to 2.
 
@@ -192,11 +263,11 @@ Parks are rated by the following aspects. Full score is 10.
 
 - Wildlife: the measurement of the wildlife viewing experience of the park. Score range from 0 to 1.
 
-- Accessibility: the measurement of the accessibility of the top scenery of the park. Score range from 0 to 0.5.
+- Activities: Is there any unique fun activities to do in the park? Score range from 0 to 0.5.
 
-## Ranking
+## Category 2 (Unique geological/biological features is the main attraction) rating
 
-| Park | Total (10 points) | Scenic (5 points) | Variety (2 points) | Uniqueness (1.5 points) | Wildlife (1 point) | Accessibility (0.5 point) |
+| Park | Total (10 points) | Scenary (5 points) | Variety (2 points) | Uniqueness (1.5 points) | Wildlife (1 point) | Activities (0.5 point) |
 |---|---|---|---|---|---|---|
 | Glaciers | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
 | Yosemite | 10 | 5 | 2 | 1.5 | 1 | 0.5 |
@@ -231,3 +302,4 @@ Parks are rated by the following aspects. Full score is 10.
 | Everglades | 3 | 1 | 0 | 0.5 | 1 | 0.5 |
 | Shenandoah | 3 | 1.5 | 0.5 | 0 | 0.5 | 0.5 |
 | Wind Cave | 2.5 | 0.5 | 0 | 1.5 | 0 | 0.5 |
+
