@@ -68,6 +68,8 @@ The first national park in the U.S. The ultimate national park experience with n
 
 The park is famous for its geothermal features and wildlife.
 
+## Top national parks
+
 #### Rocky Mountain
 
 The most scenic national park in Colorado. The second most scenic national park in U.S. Rockies - only after Glacier national park.
