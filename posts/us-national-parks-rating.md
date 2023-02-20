@@ -48,15 +48,7 @@ Eastern (Maine, Floria, Virginia):
 - Dry Tortugas
 - Shenandoah
 
-## Parks by category
-
-When people think of national parks, they most likely think of exceptional natural beauty, unique geological features and wildlife. However, there are three categories of U.S. national parks: those known for their scenic beauty, those knowns for their unique geological or biological features and those knowns for their cultural or historical significance. It is like comparing apples to oranges if we were to compare Redwoods to Mesa Verde, because they are known for completely incomparable features.
-
-### Category 1: Scenery is the main attraction
-### 1A: best of the best
-- Glacier
-- Yosemite
-- Yellowstone
+## Best of all national parks
 
 #### Glacier
 
@@ -75,21 +67,6 @@ The park is famous for its granite cliffs, magestic waterfalls and wildlife. It 
 The first national park in the U.S. The ultimate national park experience with numerous activities and attractions.
 
 The park is famous for its geothermal features and wildlife.
-
-### 1B: exceptional scenery
-- Rocky Mountain
-- Mount Rainier
-- Zion
-- Canyonlands
-- Arches
-- North Cascades
-- Grand Canyon
-- Crater Lake
-- Grant Teton
-- Olympic
-- Bryce Canyon
-- Capitol Reef
-- Acadia
 
 #### Rocky Mountain
 
@@ -145,10 +122,6 @@ The least visited and the most underrated national park in Utah.
 
 The most scenic national park in New England.
 
-### 1C: good scenary
-- Guadalupe Mountains
-- Shenandoah
-
 #### Guadalupe Mountains
 
 The tallest peak in Texas.
@@ -157,38 +130,64 @@ The tallest peak in Texas.
 
 Beautiful park in the Appalachians. 
 
-In my opinion, it's a bit unfair to compare Shenandoah to the parks in the West, because the Appalachians are not comparable to Rockies or the Cascades.
+## Parks by category
 
-### Category 2: Unique geological/biological features is the main attraction
-### 2A: outstanding geological features
+When people think of national parks, they most likely think of exceptional natural beauty, unique geological features and wildlife. However, there are three categories of U.S. national parks: those known for their scenic beauty, those knowns for their unique geological or biological features and those knowns for their cultural or historical significance. It is like comparing apples to oranges if we were to compare Redwoods to Mesa Verde, because they are known for completely incomparable features.
+
+### Category 1: Mountains and Sea
+
+- Glaciers
+- Yellowstone
+- Yosemite
+- Rocky Mountain
+- Mount Rainier
+- North Cascades
+- Grand Teton
+- Olympic
+- Acadia
+- Great Basin
+- Guadalupe Mountains
+- Shenandoah
+- Dry Tortugas
+- Crater Lake
+
+### Category 2: Canyons, Badlands and Deserts
+
+- Zion
+- Canyonlands
+- Arches
+- Grand Canyon
+- Bryce Canyon
+- Capitol Reef
 - White Sands
-- Badlands
 - Death Valley
 - Great Sand Dunes
-- Carlsbad Cavern
-- Petrified Forest
+- Badlands
 - Black Canyon of Gunnison
-- Great Basin
-
-### 2B: outstanding biological features
-- Redwoods
-- Dry Tortugas
-- Saguaro
-- Sequoia
+- Petrified Forest
 - Joshua Tree
 
-### 2C: below average in this category
-- Everglades
-- Wind Cave
+### Category 3: Flora and Fauna
 
-### Type 3: Historical/cultural features are the main attraction
+- Yellowstone
+- Redwoods
+- Everglades
+- Saguaro
+- Sequoia
+
+### Category 4: Caves
+
+- Carlsbad Cavern
+- Wind Cave
+- Great Basin
+
+### Category 5: Culture and History
+
 - Mesa Verde
 
 ## How do I rate a national park?
 
 It doesn't make much sense to use a single rule to measure all national parks because parks estiblished for different purposes are so different. It's like comparing apples to oranges if we were to compare Rocky Mountains NP to Mesa Verde NP. Instead, I will rate national parks in Category 1 and Category 2 separately.
-
-### Category 1 (Scenery is the main attraction) rating rules
 
 Parks are rated by the following aspects. 
 
@@ -200,48 +199,7 @@ Parks are rated by the following aspects.
 
 - Activities: Is there any unique fun activities to do in the park? 
 
-## Category 1 (Scenery is the main attraction) score
 
-| Park | Scenary score (10 points) |
-|---|---|
-| Glaciers | 10 |
-| Yosemite | 9.5 |
-| Yellowstone | 9 |
-| Rocky Mountain | 9 |
-| Mount Rainier | 9 |
-| Canyonlands | 9 |
-| North Cascades | 9 |
-| Dry Tortugas | 9 |
-| Zion | 8.5 |
-| Grand Canyon | 8.5 |
-| Crater Lake | 9.5 |
-| Grand Teton | 8.5 |
-| Arches | 8.5 |
-| Bryce Canyon | 8.5 |
-| Olympic | 8 |
-| Capitol Reef | 6 |
-| Acadia | 8 |
-| Guadalupe Moutains | 5 |
-| Shenandoah | 5 |
-
-## Category 2 (Unique geological/biological features is the main attraction) score
-
-| Park | Scenary score (10 points) |
-|---|---|
-| White Sands | 10 |
-| Redwoods | 9.5 |
-| Badlands | 9 |
-| Death Valley | 9 |
-| Sequoia | 9 | 
-| Great Sand Dunes | 8 |
-| Carlsbad Cavern | 7 |
-| Petrified Forest | 7 | 
-| Joshua Tree | 6 |
-| Black Canyon of Gunnison | 6 |
-| Great Basin | 6 | 
-| Saguaro | 6 |
-| Everglades | 6 |
-| Wind Cave | 5 |
 
 
 
