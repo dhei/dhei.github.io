@@ -4,7 +4,7 @@ U.S. national parks are America's best idea.
 
 ## National parks I've visited
 
-Up till the end of 2022, I've visitied 34 out of 63 U.S. national parks.
+Up till the summer of 2024, I've visitied 36 out of 63 U.S. national parks.
 
 Pacific (California, Oregon, Washington):
 - North Cascades
@@ -41,6 +41,10 @@ Rocky Mountains & Great Plains (Colorado, Montana, Wyoming, South Dakota):
 - Grand Teton
 - Badlands
 - Wind Cave
+
+Alaska:
+- Denali
+- Kenai Fjords
 
 Eastern (Maine, Floria, Virginia):
 - Acadia
@@ -145,6 +149,8 @@ When people think of national parks, they most likely think of exceptional natur
 - Mount Rainier
 - North Cascades
 - Grand Teton
+- Denali
+- Kenai Fjords
 - Olympic
 - Acadia
 - Great Basin
