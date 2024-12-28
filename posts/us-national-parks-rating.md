@@ -207,7 +207,24 @@ Parks are rated by the following aspects.
 
 - Activities: Is there any unique fun activities to do in the park? 
 
+## National parks that are I have no plans to visit in the near future
 
+Not all U.S. national parks are equally interesting to me, there are a few national parks that I don't have plans to visit in the near future due to 2 reasons - remoteness and not interesting enough.
 
+Parks that are too remote for me:
+- Alaska national parks which are only reachable by air or sea
+  - Lake Clark
+  - Katmai
+  - Gates of the Artic
+  - Kobuk Valley
+- American Somoa national park
+- Virgin Islands national park
 
-
+Parks that are not interesting enough for me:
+- Cuyahoga Valley
+- Mammoth Cave
+- Congaree
+- Hot Springs
+- Channels Islands
+- Pinnacles
+- Gateway Arch
