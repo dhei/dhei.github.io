@@ -4,7 +4,7 @@ U.S. national parks are America's best idea.
 
 ## National parks I've visited
 
-Up till the summer of 2024, I've visitied 37 out of 63 U.S. national parks.
+As of mid 2025, I've visitied 37 out of 63 U.S. national parks.
 
 Pacific (California, Oregon, Washington):
 - North Cascades
