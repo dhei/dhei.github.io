@@ -45,6 +45,7 @@ Rocky Mountains & Great Plains (Colorado, Montana, Wyoming, South Dakota):
 Alaska:
 - Denali
 - Kenai Fjords
+- Glacier Bay
 
 Eastern (Maine, Floria, Virginia):
 - Acadia
